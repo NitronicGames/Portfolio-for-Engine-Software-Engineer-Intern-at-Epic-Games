@@ -1,81 +1,68 @@
 # Portfolio-for-Engine-Software-Engineer-Intern-at-Epic-Games
 
-# 👋 Hi, I’m [Your Name]  
-**Aspiring Engine Programmer | Technical Designer | Systems Thinker**  
+# Hi, I’m [Your Name]
 
-I’m a student game developer specializing in **Unreal Engine 5**, with a strong foundation in **Blueprints** and a growing focus on **C++ programming** and **engine-side development**.  
+I’m a student game developer learning Unreal Engine 5. Most of my work so far has been in Blueprints, but I’m teaching myself C++ and want to move more into programming and technical design.  
 
-I’ve published games, shipped prototypes, and designed system documentation—from **GDDs and Vision Docs** to full whitebox levels. My goal is to build scalable, efficient systems and evolve into a **Game Programmer or Technical Designer** within AAA studios.  
-
----
-
-## 🔗 Quick Links
-- 📄 [Resume (PDF)](your-link-here)
-- 💻 [GitHub](your-link-here)
-- 🎮 [Itch.io Portfolio](your-link-here)
-- 🔗 [LinkedIn](your-link-here)
+I’ve made and released games on Itch.io, worked on jam projects, and I’m currently building a larger project called **Doomed Destiny**. I enjoy designing systems, building levels from sketches to whiteboxes, and figuring out how gameplay fits together.
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. **Doomed Destiny** *(In Progress)*
-- **Engine:** Unreal Engine 5  
-- **Focus:** Systems design, whitebox environments, Blueprint-to-C++ transition  
-- **Highlights:**  
-  - Designed full **GDD, Vision Doc, and flowcharts** to guide development.  
-  - Built modular **whitebox levels** from 2D sketches.  
-  - Implemented **enemy AI, ability systems, and spawners** in Blueprints.  
-  - Actively converting Blueprint systems into **C++ classes**.  
-
-🔗 [GitHub Repo](your-link) | 🎥 [Demo Video](your-link) | 📄 [Documentation](your-link)
+## Links
+- [Resume (PDF)](your-link-here)  
+- [GitHub](your-link-here)  
+- [Itch.io](https://nitronic-games.itch.io/)  
+- [LinkedIn](your-link-here)  
 
 ---
 
-### 2. **RoboClone** *(Published on Itch.io)*
-- **Engine:** Unreal Engine 5  
-- **Focus:** Full game loop, Blueprint systems, publishing pipeline  
-- **Highlights:**  
-  - Designed and shipped a complete arena shooter.  
-  - Built **wave spawning, upgrade systems, and player progression**.  
-  - Released to players on Itch.io, demonstrating full development pipeline.  
+## Projects
 
-🔗 [Play on Itch.io](https://nitronic-games.itch.io/roboclone) | 🎥 [Gameplay Clip](your-link)
+### Doomed Destiny *(in progress)*
+Unreal Engine 5 | Systems + Level Design  
 
----
+- Started with flowcharts and a game design document to map out ideas.  
+- Built whitebox levels from 2D sketches.  
+- Added enemy AI, player abilities, and wave spawner systems in Blueprints.  
+- Currently learning how to rebuild these systems in C++.  
 
-### 3. **Game Jams (Lost Relic, Trust No One)**
-- **Focus:** Prototyping, collaboration, and rapid iteration  
-- **Highlights:**  
-  - Designed and implemented core mechanics in short timeframes.  
-  - Worked under constraints, managing scope and priorities.  
+[GitHub Repo](your-link) • [Demo Video](your-link) • [Docs](your-link)
 
 ---
 
-## 📘 Documentation & Systems Thinking
-I approach development with **planning-first discipline**, creating structured documents to guide projects.  
+### RoboClone *(released)*
+Unreal Engine 5 | Published on Itch.io  
 
-- 📄 [Game Design Document – Doomed Destiny](your-link)  
-- 📊 [Pitch Deck](your-link)  
-- 📖 [Vision Document](your-link)  
-- 🧩 [Flowcharts & Level Sketches](your-link)  
+- Arena shooter with wave-based enemies and upgrade systems.  
+- Built entirely in Blueprints.  
+- Fully released and playable on Itch.io.  
 
-These documents demonstrate **design clarity, scope management, and technical planning**—skills I bring into both Blueprint and future C++ implementations.
-
----
-
-## 📈 Learning Journey
-I’m actively transitioning from **Blueprints → C++**.  
-
-- 🌱 **Currently Learning:** Unreal Engine C++ Essentials  
-- 🏗️ **In Progress:** Converting enemy AI & spawner systems into C++ classes  
-- 📂 [Blueprint-to-C++ Learning Repo](your-link)  
-
-This section shows my **growth mindset** and commitment to developing as an **engine programmer**.  
+[Play RoboClone](https://nitronic-games.itch.io/roboclone)
 
 ---
 
-## 🎯 Career Goal
-To contribute as an **Engine Programmer or Technical Designer**, building tools, systems, and scalable gameplay frameworks for AAA games.  
+### Game Jams
+- **Lost Relic Jam** – prototyped mechanics under a short deadline.  
+- **Trust No One Jam** – focused on level flow and small systems.  
 
-I’m passionate about **systemic design, engine efficiency, and bridging gameplay creativity with technical implementation**.  
+---
+
+## Docs and Planning
+I like planning projects before building. Here are some of the docs for *Doomed Destiny*:  
+- [Game Design Document](your-link)  
+- [Pitch Deck](your-link)  
+- [Vision Doc](your-link)  
+- [Flowcharts & Sketches](your-link)  
+
+---
+
+## Learning
+Right now I’m focused on getting better at Unreal C++:  
+- Following tutorials and rebuilding Blueprint features in code.  
+- Logging progress in a small repo: [Blueprint-to-C++ Learning](your-link).  
+
+---
+
+## Goal
+I want to work as a **Game Programmer, Technical Designer, or System Designer**.  
+I enjoy building systems that support gameplay and learning how engine tools work under the hood.
