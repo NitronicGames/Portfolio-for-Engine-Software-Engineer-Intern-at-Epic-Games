@@ -4,8 +4,7 @@
 
 I’m a student game developer learning Unreal Engine 5. Most of my work so far has been in Blueprints, but I’m teaching myself C++ and want to move more into programming and technical design.  
 
-I’ve made and released games on Itch.io, worked on jam projects, and I’m currently building a larger project called **Doomed Destiny**. I enjoy designing systems, building levels from sketches to whiteboxes, and figuring out how gameplay fits together.
-
+I’ve made and released games on Itch.io, worked on jam projects, and I’m currently building a larger project called **Doomed Destiny**. I enjoy designing systems, building levels from sketches to whiteboxes, and figuring out how gameplay fits together. I also love learning new things, improving upon myself, and hearing feedback from people so that I can get closer to my goals!
 ---
 
 ## Links
