@@ -20,10 +20,11 @@ I’ve made and released games on Itch.io, worked on jam projects, and I’m cur
 ### Doomed Destiny *(in progress)*
 Unreal Engine 5 | Systems + Level Design  
 
-- Started with flowcharts and a game design document to map out ideas.  
-- Built whitebox levels from 2D sketches.  
-- Added enemy AI, player abilities, and wave spawner systems in Blueprints.  
-- Currently learning how to rebuild these systems in C++.  
+- Started with flowcharts and a brainstorming document.
+- Created a game design document and pitch deck to refine the concept.  
+- Built a whiteboxed map from my 2D sketches.
+- Placed in key assets and blokced out main areas for flow testing.
+- Continuing to polish while also learning how to extend systems with C++.
 
 [GitHub Repo](your-link) • [Demo Video](your-link) • [Docs](your-link)
 
@@ -32,9 +33,9 @@ Unreal Engine 5 | Systems + Level Design
 ### RoboClone *(released)*
 Unreal Engine 5 | Published on Itch.io  
 
-- Arena shooter with wave-based enemies and upgrade systems.  
-- Built entirely in Blueprints.  
-- Fully released and playable on Itch.io.  
+- Arcade platformer with wave-based enemies, parkour mechanics, and power-ups.  
+- Built entirely in Blueprints with my own pixel art.  
+- Fully released and playable on Itch.io with several updates released. 
 
 [Play RoboClone](https://nitronic-games.itch.io/roboclone)
 
@@ -47,7 +48,8 @@ Unreal Engine 5 | Published on Itch.io
 ---
 
 ## Docs and Planning
-I like planning projects before building. Here are some of the docs for *Doomed Destiny*:  
+I plan projects before building to help manage my ideas and keep the final producst close to the original vision. 
+Here are some of the docs for *Doomed Destiny*:  
 - [Game Design Document](your-link)  
 - [Pitch Deck](your-link)  
 - [Vision Doc](your-link)  
@@ -58,10 +60,10 @@ I like planning projects before building. Here are some of the docs for *Doomed 
 ## Learning
 Right now I’m focused on getting better at Unreal C++:  
 - Following tutorials and rebuilding Blueprint features in code.  
-- Logging progress in a small repo: [Blueprint-to-C++ Learning](your-link).  
+- I will be logging my progress in a small repo: [Blueprint-to-C++ Learning](your-link).  
 
 ---
 
 ## Goal
-I want to work as a **Game Programmer, Technical Designer, or System Designer**.  
+I want to work as or work my way up to become a **Technical Designer, System Designer, or a Game Programmer**.  
 I enjoy building systems that support gameplay and learning how engine tools work under the hood.
