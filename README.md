@@ -1,6 +1,6 @@
 # Portfolio-for-Engine-Software-Engineer-Intern-at-Epic-Games
 
-# Hi, I’m [Ethan Weatherly]
+# Hi, I’m Ethan Weatherly.
 
 I’m a student game developer learning Unreal Engine 5. Most of my work so far has been in Blueprints, but I’m teaching myself C++ and want to move more into programming and technical design.  
 
