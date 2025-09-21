@@ -25,7 +25,7 @@ Unreal Engine 5 | Systems + Level Design
 - Placed in key assets and blokced out main areas for flow testing.
 - Continuing to polish while also learning how to extend systems with C++.
 
-[GitHub Repo](your-link) • [Demo Video](your-link) • [Docs](https://docs.google.com/document/d/198YT4rlBzRcgm3pHrqV77kXPFInvWR1p210KoxUr2YU/edit?usp=sharing) • [Pitch](https://docs.google.com/presentation/d/1d6ztp96R-0NF5GgYzH7n6gnjAHalp01L/edit?usp=sharing&ouid=104468524659219012433&rtpof=true&sd=true)
+[GitHub Repo](your-link) • [Demo Video](your-link) • [Links](https://docs.google.com/document/d/198YT4rlBzRcgm3pHrqV77kXPFInvWR1p210KoxUr2YU/edit?usp=sharing)
 
 ---
 
@@ -49,10 +49,12 @@ Unreal Engine 5 | Published on Itch.io
 ## Docs and Planning
 I plan projects before building to help manage my ideas and keep the final product close to the original vision. 
 Here are some of the docs for *Doomed Destiny*:  
-- [Game Design Document](your-link)  
-- [Pitch Deck](your-link)  
-- [Vision Doc](your-link)  
-- [Flowcharts & Sketches](your-link)  
+- [Game Design Document](your-link)
+- [Pitch Deck](https://docs.google.com/presentation/d/1d6ztp96R-0NF5GgYzH7n6gnjAHalp01L/edit?usp=sharing&ouid=104468524659219012433&rtpof=true&sd=true)
+- [Vision Doc](https://docs.google.com/document/d/1xFN1H4TUyV43KtACMq4pGIH4pIAYSRycjcr280qoztI/edit?usp=sharing)
+- [World Map Sketch](https://docs.google.com/drawings/d/1_ePIIGdtvzJQj8ulc0g2JywTBmlqEclTVr27kYZum9s/edit?usp=sharing)
+- [Flowcharts & Sketches](https://docs.google.com/drawings/d/1ZudKHiov6fbrtpMxWOxFNU_s0dUFT9p9qhgJ0gsv9ps/edit?usp=sharing)
+- [Brainstorming Document](https://docs.google.com/document/d/1BZDqHK1wWTNWPmMMcgeBWDjKcua9Uo3uYYK1Uvi-xKM/edit?usp=sharing)
 
 ---
 
