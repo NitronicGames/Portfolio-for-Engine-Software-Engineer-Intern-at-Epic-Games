@@ -25,7 +25,7 @@ Unreal Engine 5 | Systems + Level Design
 - Placed in key assets and blokced out main areas for flow testing.
 - Continuing to polish while also learning how to extend systems with C++.
 
-[GitHub Repo](your-link) • [Demo Video](your-link) • [Docs]([your-link](https://docs.google.com/document/d/198YT4rlBzRcgm3pHrqV77kXPFInvWR1p210KoxUr2YU/edit?usp=sharing)) • [Pitch]([your-link](https://docs.google.com/presentation/d/1d6ztp96R-0NF5GgYzH7n6gnjAHalp01L/edit?usp=sharing&ouid=104468524659219012433&rtpof=true&sd=true))
+[GitHub Repo](your-link) • [Demo Video](your-link) • [Docs](https://docs.google.com/document/d/198YT4rlBzRcgm3pHrqV77kXPFInvWR1p210KoxUr2YU/edit?usp=sharing) • [Pitch](https://docs.google.com/presentation/d/1d6ztp96R-0NF5GgYzH7n6gnjAHalp01L/edit?usp=sharing&ouid=104468524659219012433&rtpof=true&sd=true)
 
 ---
 
