@@ -47,7 +47,7 @@ Unreal Engine 5 | Published on Itch.io
 ---
 
 ## Docs and Planning
-I plan projects before building to help manage my ideas and keep the final producst close to the original vision. 
+I plan projects before building to help manage my ideas and keep the final product close to the original vision. 
 Here are some of the docs for *Doomed Destiny*:  
 - [Game Design Document](your-link)  
 - [Pitch Deck](your-link)  
