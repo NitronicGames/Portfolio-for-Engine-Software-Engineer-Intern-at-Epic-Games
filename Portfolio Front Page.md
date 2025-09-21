@@ -53,7 +53,7 @@ Here are some of the docs for *Doomed Destiny*:
 - [Pitch Deck](https://docs.google.com/presentation/d/1d6ztp96R-0NF5GgYzH7n6gnjAHalp01L/edit?usp=sharing&ouid=104468524659219012433&rtpof=true&sd=true)
 - [Vision Doc](https://docs.google.com/document/d/1xFN1H4TUyV43KtACMq4pGIH4pIAYSRycjcr280qoztI/edit?usp=sharing)
 - [World Map Sketch](https://docs.google.com/drawings/d/1_ePIIGdtvzJQj8ulc0g2JywTBmlqEclTVr27kYZum9s/edit?usp=sharing)
-- [Flowcharts & Sketches](https://docs.google.com/drawings/d/1ZudKHiov6fbrtpMxWOxFNU_s0dUFT9p9qhgJ0gsv9ps/edit?usp=sharing)
+- [Flowchart](https://docs.google.com/drawings/d/1ZudKHiov6fbrtpMxWOxFNU_s0dUFT9p9qhgJ0gsv9ps/edit?usp=sharing)
 - [Brainstorming Document](https://docs.google.com/document/d/1BZDqHK1wWTNWPmMMcgeBWDjKcua9Uo3uYYK1Uvi-xKM/edit?usp=sharing)
 
 ---
