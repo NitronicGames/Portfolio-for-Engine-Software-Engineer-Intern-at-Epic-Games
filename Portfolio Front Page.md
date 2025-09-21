@@ -41,8 +41,8 @@ Unreal Engine 5 | Published on Itch.io
 ---
 
 ### Game Jams
-- **Lost Relic Jam** – prototyped mechanics under a short deadline.  
-- **Trust No One Jam** – focused on level flow and small systems.  
+- **Lost Relic Jam (Group)** – prototyped mechanics under a short deadline with freinds.  
+- **Trust No One Jam (Group)** – focused on level flow and small systems while networking with people.  
 
 ---
 
