@@ -8,7 +8,7 @@ I’ve made and released games on Itch.io, worked on jam projects, and I’m cur
 ---
 
 ## Links
-- [Resume (PDF)](your-link-here) 
+- [Resume](your-link-here) 
 - [Itch.io](https://nitronic-games.itch.io/)
 - [LinkedIn](https://www.linkedin.com/in/ethan-weatherly-46192228a/)
 
