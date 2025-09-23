@@ -69,5 +69,7 @@ Right now I’m focused on getting better at Unreal C++:
 I want to work as or work my way up to become a **Technical Designer, System Designer, or a Game Programmer**.  
 I enjoy designing/building systems that support gameplay and learning how engine tools work under the hood.
 
+---
+
 ##Recommendations
-[Troy Dunniway Letter](https://docs.google.com/document/d/12GPTx1Q5Xq9qmyULp_ONDhZHS77-_D0FFU5dg3wDZcg/edit?usp=sharing)
+- [Troy Dunniway Letter](https://docs.google.com/document/d/12GPTx1Q5Xq9qmyULp_ONDhZHS77-_D0FFU5dg3wDZcg/edit?usp=sharing)
