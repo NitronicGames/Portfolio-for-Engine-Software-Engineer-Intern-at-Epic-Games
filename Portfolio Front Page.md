@@ -8,7 +8,7 @@ I’ve made and released games on Itch.io, worked on jam projects, and I’m cur
 ---
 
 ## Links
-- [Resume](your-link-here) 
+- [Resume](https://docs.google.com/document/d/1HZV0S63DrEs8Umd6UNrNBZqFqfknc1_qMHJI8-RAMpU/edit?usp=sharing) 
 - [Itch.io](https://nitronic-games.itch.io/)
 - [LinkedIn](https://www.linkedin.com/in/ethan-weatherly-46192228a/)
 
@@ -61,7 +61,7 @@ Here are some of the docs for *Doomed Destiny*:
 ## Learning
 Right now I’m focused on getting better at Unreal C++:  
 - Following tutorials and rebuilding Blueprint features in code.  
-- I will be logging my progress in a small repo: [Blueprint-to-C++ Learning](your-link).  
+- I will be logging my progress in a small repo soon: [Blueprint-to-C++ Learning](your-link).  
 
 ---
 
