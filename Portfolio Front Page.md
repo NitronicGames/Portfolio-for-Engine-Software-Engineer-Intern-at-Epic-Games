@@ -22,7 +22,7 @@ Unreal Engine 5 | Systems + Level Design
 - Started with flowcharts and a brainstorming document.
 - Created a game design document and pitch deck to refine the concept.  
 - Built a whiteboxed map from my 2D sketches.
-- Placed in key assets and blokced out main areas for flow testing.
+- Placed in key assets and blockced out main areas for flow testing.
 - Continuing to polish while also learning how to extend systems with C++.
 
 [GitHub Repo](your-link) • [Demo Video](your-link) • [Links](https://docs.google.com/document/d/198YT4rlBzRcgm3pHrqV77kXPFInvWR1p210KoxUr2YU/edit?usp=sharing)
