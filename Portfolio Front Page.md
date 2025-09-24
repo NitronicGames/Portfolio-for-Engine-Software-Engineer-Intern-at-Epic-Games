@@ -60,7 +60,7 @@ Here are some of the docs for *Doomed Destiny*:
 
 ## Learning
 Right now I’m focused on getting better at Unreal C++:  
-- Following tutorials and rebuilding Blueprint features in code.  
+- Taking In-person/Online Classes and rebuilding Blueprint features in code.  
 - I will be logging my progress in a small repo soon: [Blueprint-to-C++ Learning](your-link).  
 
 ---
