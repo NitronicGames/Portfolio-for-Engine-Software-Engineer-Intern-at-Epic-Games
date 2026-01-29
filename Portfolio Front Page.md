@@ -66,7 +66,7 @@ Right now I’m focused on getting better at Unreal C++:
 ---
 
 ## Goal
-I want to work as or work my way up to become a **Technical Designer, System Designer, or a Game Programmer**.  
+I want to work as or work my way up to become a **Technical Designer, Systemic Designer, or a Game Programmer**.  
 I enjoy designing/building systems that support gameplay and learning how engine tools work under the hood.
 
 ---
